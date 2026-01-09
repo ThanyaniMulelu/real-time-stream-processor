@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  stream-processor:
+    build: .
+    container_name: stream-processor
+    restart: unless-stopped
+    environment:
+      - TZ=UTC
+      - PYTHONUNBUFFERED=1
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    # Uncomment for continuous mode
+    # command: python -u demo_sanitized_system.py --continuous

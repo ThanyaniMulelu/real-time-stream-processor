@@ -1,0 +1,16 @@
+# Python dependencies
+asyncio-core>=3.4.3
+
+# For production deployment (optional)
+uvloop>=0.19.0  # High-performance event loop
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.7.0
+mypy>=1.5.0
+flake8>=6.1.0
+
+# Optional: For actual LLM integration
+# openai>=1.0.0
+# anthropic>=0.8.0
