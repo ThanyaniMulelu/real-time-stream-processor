@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Thanyani Mulelu**
 - GitHub: [@ThanyaniMulelu](https://github.com/ThanyaniMulelu)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [@ThanyaniMulelu]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/thanyani-selby-mulelu-09ba82177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 🙏 Acknowledgments
 
